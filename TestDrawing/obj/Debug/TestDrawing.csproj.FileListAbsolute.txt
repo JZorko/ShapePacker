@@ -1,0 +1,7 @@
+C:\Users\JZorko\Documents\Projects\ShapePacker\TestDrawing\bin\Debug\TestDrawing.exe.config
+C:\Users\JZorko\Documents\Projects\ShapePacker\TestDrawing\bin\Debug\TestDrawing.exe
+C:\Users\JZorko\Documents\Projects\ShapePacker\TestDrawing\bin\Debug\TestDrawing.pdb
+C:\Users\JZorko\Documents\Projects\ShapePacker\TestDrawing\obj\Debug\TestDrawing.csproj.CoreCompileInputs.cache
+C:\Users\JZorko\Documents\Projects\ShapePacker\TestDrawing\obj\Debug\TestDrawing.exe
+C:\Users\JZorko\Documents\Projects\ShapePacker\TestDrawing\obj\Debug\TestDrawing.pdb
+C:\Users\JZorko\Documents\Projects\ShapePacker\TestDrawing\obj\Debug\TestDrawing.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\JZorko\Documents\Projects\ShapePacker\Shapes\bin\Debug\Shapes.dll
+C:\Users\JZorko\Documents\Projects\ShapePacker\Shapes\bin\Debug\Shapes.pdb
+C:\Users\JZorko\Documents\Projects\ShapePacker\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\JZorko\Documents\Projects\ShapePacker\Shapes\obj\Debug\Shapes.dll
+C:\Users\JZorko\Documents\Projects\ShapePacker\Shapes\obj\Debug\Shapes.pdb
+C:\Users\JZorko\Documents\Projects\ShapePacker\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache

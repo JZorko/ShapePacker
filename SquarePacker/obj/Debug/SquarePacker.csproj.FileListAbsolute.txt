@@ -1,0 +1,7 @@
+C:\Users\JZorko\Documents\Projects\SquarePacker\SquarePacker\bin\Debug\SquarePacker.exe.config
+C:\Users\JZorko\Documents\Projects\SquarePacker\SquarePacker\bin\Debug\SquarePacker.exe
+C:\Users\JZorko\Documents\Projects\SquarePacker\SquarePacker\bin\Debug\SquarePacker.pdb
+C:\Users\JZorko\Documents\Projects\SquarePacker\SquarePacker\obj\Debug\SquarePacker.csprojAssemblyReference.cache
+C:\Users\JZorko\Documents\Projects\SquarePacker\SquarePacker\obj\Debug\SquarePacker.csproj.CoreCompileInputs.cache
+C:\Users\JZorko\Documents\Projects\SquarePacker\SquarePacker\obj\Debug\SquarePacker.exe
+C:\Users\JZorko\Documents\Projects\SquarePacker\SquarePacker\obj\Debug\SquarePacker.pdb
